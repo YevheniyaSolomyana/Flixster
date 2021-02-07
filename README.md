@@ -24,7 +24,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="Flixster.gif" width=250><br>
+<img src="" width=250><br>
 
 ### Notes
 It would not let me add the AsyncHttpClient library unless I updated the minSdkVersion to 21 which resolved the issue.
